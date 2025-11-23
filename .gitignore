@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Logs
+*.log
+server.log
+
+# Node modules
+node_modules/
+
+# Screenshots
+*.png
+error.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PID files
+*.pid
+
+# Deployment archives
+*.zip
